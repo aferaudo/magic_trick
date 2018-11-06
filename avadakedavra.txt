@@ -1,5 +1,3 @@
-# Modifier Magic number in python
-
               _,,,_                           _
          /////\\                    _ |\ | \|\  _
         // e e \\                  / `|~\|_/|~\|_) _
